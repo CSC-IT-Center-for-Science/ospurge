@@ -60,7 +60,7 @@ Install ``ospurge`` with ``pip``:
 
 .. code-block:: console
 
-    $ pip install ospurge
+    $ python setup.py install
 
 Available options can be displayed by using ``ospurge -h``:
 
